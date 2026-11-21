@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "work_key": "trove24101237",
+    "title": "華童患瘋症",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1925-08-08, p. 7, NLA news-page24101237",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "華童患瘋症（《東華報》1925-08-08 第7版，澳洲國家圖書館） / Hua tong huan feng zheng [A Chinese Child Sent to Hospital]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "有壹華童年方十二歲。。於壹年前來"
+            },
+            {
+              "text": "澳留學。。寓於雪梨埠沙厘希燈威關"
+            },
+            {
+              "text": "處。。前數月間。。身體不適。。延醫調"
+            },
+            {
+              "text": "治。。醫生斷爲瘋症。。經將該童送入"
+            },
+            {
+              "text": "列度灣流行病醫院療治云。。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "text": "華童患瘋症",
+              "location": "正文右側大字獨立題頭"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "於壹年前",
+          "candidates": [
+            "於壹年前"
+          ],
+          "note": "一字作財會大寫壹，墨重。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "沙厘希燈威關",
+          "candidates": [
+            "沙厘希燈威關",
+            "沙厘希燈威爾"
+          ],
+          "note": "地名與寄寓者音譯併列；末字閉合外框可見但下部髮墨。"
+        },
+        {
+          "side": "single",
+          "column": 5,
+          "context": "列度灣",
+          "candidates": [
+            "列度灣"
+          ],
+          "note": "院址末字筆畫粘連，不以其他篇「列度啤」覆蓋。"
+        }
+      ],
+      "observations": "第七版《本洲新聞》上中段小則，三角號與大字題頭另欄，正文向左五欄，第四欄「入」後接第五欄院名，末雙圈後至下一標題前止。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101237",
+      "catalogue_page": 7,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24101237/level5",
+      "sha256": "11304b27c78dea9f82d71d74b8352f62a50569b4d9dac55c42fb51111b09380e",
+      "label": "1925-08-08 第7版",
+      "dimensions": [
+        2886,
+        3731
+      ],
+      "article_extent": [
+        1228,
+        750,
+        1518,
+        1236
+      ],
+      "article_regions": [
+        [
+          1228,
+          750,
+          1518,
+          1236
+        ]
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
