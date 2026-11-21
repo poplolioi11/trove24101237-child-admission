@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "trove24101237",
     "title": "華童患瘋症",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "Tung Wah Times, 1925-08-08, p. 7, NLA news-page24101237",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "華童患瘋症（《東華報》1925-08-08 第7版，澳洲國家圖書館） / Hua tong huan feng zheng [A Chinese Child Sent to Hospital]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -26,7 +26,7 @@
               "text": "有壹華童年方十二歲。。於壹年前來"
             },
             {
-              "text": "澳留學。。寓於雪梨埠沙厘希燈威關"
+              "text": "澳留學。。寓於雪梨埠沙厘希□威屬"
             },
             {
               "text": "處。。前數月間。。身體不適。。延醫調"
@@ -55,17 +55,8 @@
           "candidates": [
             "於壹年前"
           ],
-          "note": "一字作財會大寫壹，墨重。"
-        },
-        {
-          "side": "single",
-          "column": 2,
-          "context": "沙厘希燈威關",
-          "candidates": [
-            "沙厘希燈威關",
-            "沙厘希燈威爾"
-          ],
-          "note": "地名與寄寓者音譯併列；末字閉合外框可見但下部髮墨。"
+          "note": "一字作財會大寫壹，墨重。",
+          "review_note": "財會大寫壹略黏；雙讀相符。"
         },
         {
           "side": "single",
@@ -74,7 +65,28 @@
           "candidates": [
             "列度灣"
           ],
-          "note": "院址末字筆畫粘連，不以其他篇「列度啤」覆蓋。"
+          "note": "院址末字筆畫粘連，不以其他篇「列度啤」覆蓋。",
+          "review_note": "院址末字墨黏，雙讀同判為灣。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "沙厘希□威屬",
+          "candidates": [
+            "沙厘希燈威關",
+            "沙厘希壚威屬"
+          ],
+          "note": "擴圖仍難定前音譯字；末音譯字留候。"
+        },
+        {
+          "side": "single",
+          "column": 4,
+          "context": "斷爲",
+          "candidates": [
+            "斷爲",
+            "斷為"
+          ],
+          "note": "據可見爲字筆勢暫留。"
         }
       ],
       "observations": "第七版《本洲新聞》上中段小則，三角號與大字題頭另欄，正文向左五欄，第四欄「入」後接第五欄院名，末雙圈後至下一標題前止。",
